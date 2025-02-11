@@ -1,0 +1,18 @@
+{
+  "Version": "001",
+  "Year": "2025",
+  "Semester": "Spring",
+  "project_name": "Personalized Book Recommendation System Using RAG",
+  "Objective": " \n            The project aims to develop a personalized book recommendation system using RAG techniques. The system will recommend books to users based on their favorite titles and explain the recommendations. The project will also demonstrate the effectiveness of using AI models with retrieval methods to create a recommendation system.\n\n            ",
+  "Dataset": "\n            https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks\n            https://developers.google.com/books\n            https://openlibrary.org/developers/api\n\n            ",
+  "Rationale": "\n            This project's potential impact is to enhance readers' book discovery experience by providing personalized recommendations. It helps users find books they are interested in. Academically, it demonstrates the practical application of RAG in recommendation systems.\n            ",
+  "Approach": "\n            I plan on approaching this capstone through several steps.  \n\n            1. Data Collection\n            2. Text Embedding\n            3. Database Setup\n            4. Retrieval Component\n            5. Generation Component\n            6. Recommendation Algorithm\n            7. User Interface\n            8. Evaluation\n            9. Optimization\n \n            ",
+  "Timeline": "\n            This a rough time line for this project:  \n\n            - (2 Weeks) Data Collection\n            - (2 Weeks) Text Embedding \n            - (3 Weeks) Retrieval and Generation Components\n            - (3 Weeks) Recommendation Algorithm Development\n            - (2 Weeks) User Interface Creation\n            - (1 Week) Optimization\n            - (2 Weeks) Report, Poster, and Final Presentation\n \n            ",
+  "Expected Number Students": "\n            For this project maximum 1 students can work on it.  \n            ",
+  "Possible Issues": "\n            Making sure the recommendations are meaningful and helpful. And being able to analyze user provided books.\n            ",
+  "Proposed by": "Rohan Arora",
+  "Proposed by email": "rohanarora@gwu.edu",
+  "instructor": "Sushovan Majhi",
+  "instructor_email": "s.majhi@gwu.edu",
+  "github_repo": "https://github.com/rohanwarora/DATS_Capstone"
+}
